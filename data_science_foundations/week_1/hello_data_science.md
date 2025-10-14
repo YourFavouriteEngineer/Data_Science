@@ -28,9 +28,9 @@ Here’s your guide rewritten in clean, professional **Markdown (`.md`)** format
 
 ---
 
-# 🚀 Getting Started with Python & VS Code
+#  Getting Started with Python & VS Code
 
-## 🐍 1. Verify Python Installation
+##  1. Verify Python Installation
 
 Open your terminal or command prompt and type:
 
@@ -58,13 +58,13 @@ Python 3.12.1
    * **Python** (by Microsoft)
    * **Jupyter** *(optional, for later weeks)*
 
-### 🔗 Connect to GitHub
+###  Connect to GitHub
 
 Click the **Settings** section in VS Code and connect your GitHub account.
 
 ---
 
-## ✍️ 3. Write Your First Python Script
+##  3. Write Your First Python Script
 
 ### Step 1 — Fork and Clone the Repository
 
@@ -106,13 +106,13 @@ My name is John Doe
 I’m excited to start my data science journey.
 ```
 
-🎉 Congratulations — you’ve just written your first Python program!
+ Congratulations — you’ve just written your first Python program!
 
 ---
 
-## 🧠 4. Add a Project Description
+##  4. Add a Project Description
 
-Create a new file named `README.md` in your repo and write a short description, for example:
+Create a new file named `README.md`  and write a short description, for example:
 
 ```markdown
 # My First Step into Data Science
@@ -128,4 +128,3 @@ where I print a welcome message to the data science world!
 
 ---
 
-Would you like me to format it for GitHub with emoji headers and better section dividers (like a visually polished README template)?
