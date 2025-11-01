@@ -1,8 +1,3 @@
-Excellent. Let’s continue —
-Here’s **Lesson 2: Variables and Data Types**, written in the same **Kaggle-style interactive format** — practical, visual, and hands-on.
-
----
-
 ## LESSON 2: Variables and Data Types (int, float, str, bool)
 
 ---
